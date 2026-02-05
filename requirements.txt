@@ -1,0 +1,11 @@
+python-nmap
+requests
+shodan
+dnspython
+whois
+networkx
+pyvis
+jinja2
+colorama
+tqdm
+validators
